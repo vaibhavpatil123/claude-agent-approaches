@@ -1,5 +1,5 @@
 ![Three Ways to Build AI Agents with Anthropic](images/cover.jpg)
-
+https://cobusgreyling.medium.com/three-ways-to-build-ai-agents-with-claude-54db80194127
 # Three Ways To Build AI Agents With Claude
 
 **Anthropic now offers three distinct approaches to building AI Agents. Not variations on a theme. Three fundamentally different paradigms. The fact that they ship all three tells you something about where agentic AI is heading — there is no single right way to orchestrate autonomous systems.**
